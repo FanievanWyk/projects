@@ -58,6 +58,16 @@ Each case study follows the same structure:
 
 The aim is to demonstrate judgement and delivery—not disclose private architecture, credentials, configurations, vendors' confidential material, or organisational weaknesses.
 
+## Reference models & checklists
+
+These supporting resources demonstrate reusable methods rather than production configurations:
+
+- [Network modernisation reference model](architecture/network-modernisation-reference.md)
+- [Backup and recovery reference model](architecture/backup-recovery-reference.md)
+- [Virtualisation platform reference model](architecture/virtualisation-reference.md)
+- [Infrastructure assessment checklist](checklists/infrastructure-assessment.md)
+- [New-build technology planning checklist](checklists/new-build-technology-planning.md)
+
 ## Current direction
 
 I am targeting senior opportunities such as:
