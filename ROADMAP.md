@@ -13,11 +13,11 @@
 
 ## Phase 2 — Evidence
 
-- [ ] Create a fictionalised network-modernisation diagram
-- [ ] Create a generic backup and recovery workflow
-- [ ] Add a high-level virtualisation architecture diagram
-- [ ] Add a technology-planning checklist for building projects
-- [ ] Add a vendor-neutral infrastructure assessment checklist
+- [x] Create a fictionalised network-modernisation diagram
+- [x] Create a generic backup and recovery workflow
+- [x] Add a high-level virtualisation architecture diagram
+- [x] Add a technology-planning checklist for building projects
+- [x] Add a vendor-neutral infrastructure assessment checklist
 - [ ] Add a small SQL/reporting or automation example using synthetic data
 
 ## Phase 3 — Career alignment
