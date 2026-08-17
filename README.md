@@ -2,7 +2,6 @@
 
 Selected case studies from more than 16 years of practical experience across enterprise infrastructure, networking, virtualisation, security, continuity, Microsoft platforms, systems integration, and technical project delivery.
 
-> This repository is currently under private review. All case studies are deliberately sanitised before public release.
 
 ## Professional focus
 
@@ -11,7 +10,7 @@ I design and improve dependable technology environments by connecting infrastruc
 My strongest areas include:
 
 - Enterprise infrastructure architecture and lifecycle planning
-- Campus and multi-site networking
+- Campus networking
 - Windows Server, Active Directory, Hyper-V, and storage
 - Microsoft 365 and hybrid services
 - Firewall, endpoint, and physical security integration
@@ -41,7 +40,6 @@ The case studies draw from responsibility for a complex operational environment 
 - 100+ wireless access points
 - A clustered virtualisation platform hosting 13 production workloads
 
-Figures are intentionally rounded and identifying information is removed.
 
 ## How to read this portfolio
 
