@@ -32,7 +32,3 @@ The resulting approach improved resilience through onsite backup, offsite replic
 ## Capabilities demonstrated
 
 Backup architecture · Disaster recovery · Business continuity · NAS · Replication · Microsoft cloud services · Risk assessment · Recovery planning · Monitoring · Documentation
-
-## Confidentiality note
-
-Schedules, retention periods, storage locations, credentials, recovery procedures, and system-specific configurations are intentionally excluded.
