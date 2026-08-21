@@ -39,7 +39,3 @@ The migration improved security-platform capacity and provided a more sustainabl
 ## Capabilities demonstrated
 
 Firewall architecture · Security migration · VPN · Endpoint integration · Policy management · Capacity planning · Change control · Risk management · Vendor coordination · Incident troubleshooting
-
-## Confidentiality note
-
-Product-specific configurations, policies, addresses, rules, vulnerabilities, and remote-access details are excluded.
