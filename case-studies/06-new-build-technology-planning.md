@@ -32,7 +32,3 @@ Early technology involvement reduced avoidable rework and produced spaces better
 ## Capabilities demonstrated
 
 Requirements analysis · Solution architecture · Structured cabling · Fibre · Wi-Fi planning · Power resilience · Audiovisual systems · Physical security · Stakeholder coordination · Technical documentation · Future-proofing
-
-## Confidentiality note
-
-Plans, routes, equipment locations, security layouts, contractors, costs, and site-identifying details are excluded.
