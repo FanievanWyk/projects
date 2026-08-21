@@ -39,7 +39,3 @@ The modernised platform improved supportability, workload management, capacity, 
 ## Capabilities demonstrated
 
 Windows Server · Hyper-V · Clustering · Active Directory · Virtual machines · Storage · NAS · LUNs · iSCSI · Migration planning · Service validation · Troubleshooting
-
-## Confidentiality note
-
-Server names, workload identities, versions of business applications, storage layouts, addressing, and configurations are omitted.
