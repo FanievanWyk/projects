@@ -53,7 +53,3 @@ The programme also replaced isolated, reactive upgrades with a longer-term infra
 ## Capabilities demonstrated
 
 Network architecture · Campus networking · Switching · Wireless · Fibre and structured cabling · UTP installation planning · Capacity planning · Phased migration · Procurement · Contractor and vendor coordination · Documentation · Troubleshooting · Technical leadership
-
-## Confidentiality note
-
-Topology, addressing, device configurations, security controls, building layouts, supplier information, and organisation-identifying details are intentionally omitted.
