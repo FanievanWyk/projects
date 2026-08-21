@@ -1,16 +1,13 @@
-# Infrastructure & Systems Portfolio
+# Fanie van Wyk — Infrastructure & Systems Portfolio
 
-Selected case studies from more than 16 years of practical experience across enterprise infrastructure, networking, virtualisation, security, continuity, Microsoft platforms, systems integration, and technical project delivery.
+Senior infrastructure and systems professional with 16+ years of hands-on experience designing, modernising, and operating complex technology environments.
 
+This portfolio presents selected, sanitised case studies across enterprise infrastructure, networking, security, resilience, Microsoft platforms, systems integration, and technical project delivery.
 
-## Professional focus
+## Core expertise
 
-I design and improve dependable technology environments by connecting infrastructure, operations, security, people, and long-term planning.
-
-My strongest areas include:
-
-- Enterprise infrastructure architecture and lifecycle planning
-- Campus networking
+- Infrastructure architecture and lifecycle planning
+- Enterprise networking, fibre, switching, and Wi-Fi
 - Windows Server, Active Directory, Hyper-V, and storage
 - Microsoft 365 and hybrid services
 - Firewall, endpoint, and physical security integration
@@ -19,20 +16,9 @@ My strongest areas include:
 - Procurement, vendor coordination, technical leadership, and mentoring
 - Reporting, automation, and systems integration
 
-## Selected case studies
-
-| Case study | Focus | Evidence demonstrated |
-|---|---|---|
-| [Enterprise Network Modernisation](case-studies/01-enterprise-network-modernisation.md) | Core, distribution, access, and wireless renewal | Architecture, phased delivery, resilience, vendor coordination |
-| [Firewall & Security Refresh](case-studies/02-firewall-security-refresh.md) | Perimeter platform migration | Security planning, continuity, capacity, risk management |
-| [Server & Virtualisation Modernisation](case-studies/03-server-virtualisation-modernisation.md) | Windows Server and Hyper-V renewal | Migration, clustering, storage, production continuity |
-| [Backup & Disaster Recovery](case-studies/04-backup-disaster-recovery.md) | Layered protection and recovery | Business continuity, replication, recovery planning |
-| [Digital Classroom Programme](case-studies/05-digital-classroom-modernisation.md) | End-user and teaching technology | Programme delivery, usability, lifecycle management |
-| [New-Build Technology Planning](case-studies/06-new-build-technology-planning.md) | Technology requirements for construction | Cross-functional planning, future-proofing, documentation |
-
 ## Environment scale
 
-The case studies draw from responsibility for a complex operational environment supporting approximately:
+The work represented in these case studies includes responsibility for an environment supporting approximately:
 
 - 1,600 users
 - 375+ managed computers
@@ -40,25 +26,20 @@ The case studies draw from responsibility for a complex operational environment 
 - 100+ wireless access points
 - A clustered virtualisation platform hosting 13 production workloads
 
+Figures are rounded and identifying information has been removed.
 
-## How to read this portfolio
+## Selected case studies
 
-Each case study follows the same structure:
+| Case study | Focus |
+|---|---|
+| [Enterprise Network Modernisation](case-studies/01-enterprise-network-modernisation.md) | Network design, structured cabling, fibre, switching, and wireless growth |
+| [Firewall & Security Refresh](case-studies/02-firewall-security-refresh.md) | Perimeter security migration, continuity, and capacity planning |
+| [Server & Virtualisation Modernisation](case-studies/03-server-virtualisation-modernisation.md) | Windows Server, Hyper-V, clustering, storage, and service migration |
+| [Backup & Disaster Recovery](case-studies/04-backup-disaster-recovery.md) | Layered protection, replication, recovery design, and continuity |
+| [Digital Classroom Programme](case-studies/05-digital-classroom-modernisation.md) | Technology modernisation, usability, lifecycle, and supportability |
+| [New-Build Technology Planning](case-studies/06-new-build-technology-planning.md) | Cabling, fibre, Wi-Fi, audiovisual, security, power, and future growth |
 
-1. Context
-2. Challenge
-3. Constraints
-4. My role
-5. Approach
-6. Outcome
-7. Capabilities demonstrated
-8. Security and confidentiality notes
-
-The aim is to demonstrate judgement and delivery—not disclose private architecture, credentials, configurations, vendors' confidential material, or organisational weaknesses.
-
-## Reference models & checklists
-
-These supporting resources demonstrate reusable methods rather than production configurations:
+## Reference models & practical tools
 
 - [Network modernisation reference model](architecture/network-modernisation-reference.md)
 - [Backup and recovery reference model](architecture/backup-recovery-reference.md)
@@ -66,26 +47,7 @@ These supporting resources demonstrate reusable methods rather than production c
 - [Infrastructure assessment checklist](checklists/infrastructure-assessment.md)
 - [New-build technology planning checklist](checklists/new-build-technology-planning.md)
 
-## Current direction
-
-I am targeting senior opportunities such as:
-
-- Senior Infrastructure Engineer
-- Infrastructure Solutions Architect
-- Systems Integration Engineer
-- Technical Solutions Consultant
-- Microsoft 365 Infrastructure Engineer
-- Network and Infrastructure Architect
-
-## Portfolio standards
-
-Before any case study becomes public, it must pass the repository's [public disclosure checklist](SECURITY.md).
-
-## Contact
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vanwyk-fanie)
 - [GitHub](https://github.com/FanievanWyk)
-
----
-
-Built from real operational experience. Written for clarity, credibility, and responsible disclosure.
