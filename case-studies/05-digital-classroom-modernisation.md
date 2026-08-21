@@ -31,7 +31,3 @@ The programme created a more consistent foundation for technology-enabled teachi
 ## Capabilities demonstrated
 
 Programme delivery · End-user computing · Audiovisual systems · Interactive technology · Networking · Requirements analysis · Procurement · Vendor management · Support design · Lifecycle planning
-
-## Confidentiality note
-
-Room layouts, equipment inventories, user details, budgets, and organisation-specific standards are omitted.
