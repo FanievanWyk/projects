@@ -2,7 +2,7 @@
 
 ## Context
 
-When I joined the organisation, the network was comparatively small: approximately 5–15 switches, with wireless point-to-point links connecting some buildings. As demand grew, the environment needed to move from a limited, organically developed network to a structured campus platform capable of supporting administrative systems, teaching technology, mobile devices, audiovisual services, security systems, and cloud platforms.
+When I joined the organisation, the network was comparatively small: approximately 5–15 switches, with wireless point-to-point links connecting some buildings. As demand grew, the environment needed to move from a limited, organically developed network to a structured campus platform capable of supporting administrative systems, teaching technology, mobile devices, audiovisual services, security systems and cloud platforms.
 
 I designed the expanded network approach and worked as part of the installation project that delivered more than 500 new UTP data points together with fibre links between key locations. After this foundational project, I continued upgrading and modernising the infrastructure in phases as user numbers, buildings, services, security needs, and technology requirements increased.
 
