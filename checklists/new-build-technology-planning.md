@@ -27,12 +27,12 @@ Use this checklist early in construction or refurbishment planning.
 
 - [ ] Display, projection, audio, microphones, and control
 - [ ] Video conferencing, streaming, and recording
-- [ ] Lighting, acoustics, sightlines, and cable routes
+- [ ] Cable routes
 - [ ] Standard interfaces and supportability
 
 ## Security and life-safety integration
 
-- [ ] Access control and door hardware coordination
+- [ ] Access control and hardware coordination
 - [ ] CCTV coverage objectives and lawful placement
 - [ ] Alarm, intercom, visitor, and emergency requirements
 - [ ] Network, power, storage, and management dependencies
