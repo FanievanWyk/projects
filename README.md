@@ -26,7 +26,7 @@ The work represented in these case studies includes responsibility for an enviro
 - 100+ wireless access points
 - A clustered virtualisation platform hosting 13 production workloads
 
-Figures are rounded and identifying information has been removed.
+
 
 ## Selected case studies
 
